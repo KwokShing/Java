@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="F:/各功能原码例子及说明/模拟Http请求例子/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/各功能原码例子及说明/模拟Http请求例子/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="F:/各功能原码例子及说明/模拟Http请求例子/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/各功能原码例子及说明/模拟Http请求例子/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kross/Desktop/HttpClientDemo/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kross/Desktop/HttpClientDemo/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kross/Desktop/HttpClientDemo/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kross/Desktop/HttpClientDemo/org.json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

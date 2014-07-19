@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: libs/gson171.jar libs/gson171sources.jar libs/json.jar libs/log4j.jar libs/mina.jar libs/nanoxml.jar libs/sfs.jar libs/slf4j.jar libs/xmlsocket.jar
+Main-Class: com.drawonline.client.ui.LoginFrame
+

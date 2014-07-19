@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GBK"?>
+<jardesc>
+<jar path="C:/Documents and Settings/Administrator/&#26700;&#38754;/drawGuess.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/DrawOnline/test.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+<storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+<selectedProjects/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=DrawOnline/src&lt;com.drawonline.client.ui{LoginFrame.java[LoginFrame" manifestLocation="/DrawOnline/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<file path="/DrawOnline/str.txt"/>
+<file path="/DrawOnline/.classpath"/>
+<file path="/DrawOnline/config.xml"/>
+<folder path="/DrawOnline/libs"/>
+<javaElement handleIdentifier="=DrawOnline/src"/>
+<file path="/DrawOnline/.project"/>
+</selectedElements>
+</jardesc>
